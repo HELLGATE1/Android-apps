@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Графический Редактор</string>
+    <string name="action_settings">Настройки</string>
+    <string name="erase">Стереть Рисунок</string>
+    <string name="set_color">Задать Цвет</string>
+    <string name="set_line_width">Задать Толщину Линии</string>
+    <string name="line_width_description">Отображает толщину линии</string>
+    <string name="alpha">Альфа</string>
+    <string name="red">Красный</string>
+    <string name="green">Зелёный</string>
+    <string name="blue">Голубой</string>
+    <string name="menuitem_color">Цвет</string>
+    <string name="menuitem_delete">Стереть Рисунок</string>
+    <string name="menuitem_line_width">Ширина Линии</string>
+    <string name="menuitem_save">Сохранить</string>
+    <string name="menuitem_print">Распечатать</string>
+    <string name="message_erase">Стереть рисунок?</string>
+    <string name="message_error_saving">Ошибка при сохранении рисунка</string>
+    <string name="message_saved">Файл успешно сохранён</string>
+    <string name="message_error_printing">Ваше устройство не поддерживает печать</string>
+    <string name="permission">Чтобы сохранить рисунок, приложению требуется разрешение на запись на внешний носитель</string>
+    <string name="color_dialog">Выберите Цвет</string>
+    <string name="line_width_dialog">Выберите Толщину Линии</string>
+    <string name="snackbarPermission">Разрешение на запись рисунка на устройство не предоставлено. Откройте разрешения приложения и включите его</string>
+    <string name="cancell">Отмена</string>
+</resources>
